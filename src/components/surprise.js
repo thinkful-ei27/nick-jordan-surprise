@@ -3,6 +3,7 @@ import React from 'react';
 import SurpriseButton from './surprise-button';
 import SurpriseImage from './surprise-image';
 
+// Update this component
 export default class Surprise extends React.Component {
     constructor(props) {
         super(props);
